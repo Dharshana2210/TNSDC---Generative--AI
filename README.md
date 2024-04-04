@@ -9,17 +9,17 @@ This project focuses on predicting rainfall based on various meteorological feat
 ## Requirements
 To run the code in Rainfall_Prediction.ipynb, the following Python libraries are required:
 
-## pandas  
+### pandas  
 
-## numpy
+### numpy
 
-## matplotlib
+### matplotlib
 
-## seaborn
+### seaborn
 
-## scikit-learn
+### scikit-learn
 
-## imbalanced-learn
+### imbalanced-learn
 
 ## You can install these libraries using pip:
 
@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 ## Usage
 ## Clone the repository:
-## git clone https://github.com/Dharshana2210/TNSDC---Generative--AI
+#### git clone https://github.com/Dharshana2210/TNSDC---Generative--AI
 
 ## Navigate to the project directory:
 cd rainfall-prediction
@@ -39,7 +39,7 @@ Follow the instructions and comments in the notebook for data preprocessing, vis
 ## Results
 The project aims to achieve accurate rainfall predictions using machine learning models. The evaluation metrics such as accuracy, precision, recall, and F1-score will be used to assess the performance of the models.
 
-### Demo Link:https://drive.google.com/file/d/1BUH1xFL9sZL39r8BYNjW9o8H8Zmood8o/view?usp=sharing
+#### Demo Link: https://drive.google.com/file/d/1BUH1xFL9sZL39r8BYNjW9o8H8Zmood8o/view?usp=sharing
 
-### Dataset Link:https://figshare.com/articles/dataset/rainfall_csv/12668411
+#### Dataset Link: https://figshare.com/articles/dataset/rainfall_csv/12668411
 
