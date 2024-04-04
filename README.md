@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 1. Clone the repository:
 
 
-#### git clone https://github.com/Dharshana2210/TNSDC---Generative--AI
+ #### git clone https://github.com/Dharshana2210/TNSDC---Generative--AI
 
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ cd rainfall-prediction
 
 
 3. Open and run the Jupyter Notebook Rainfall_Prediction.ipynb to execute the code step-by-step.
-
+ 
 4. Follow the instructions and comments in the notebook for data preprocessing, visualization, model training, and evaluation.
 
 ## Results
