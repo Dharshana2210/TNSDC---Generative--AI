@@ -9,12 +9,18 @@ This project focuses on predicting rainfall based on various meteorological feat
 ## Requirements
 To run the code in Rainfall_Prediction.ipynb, the following Python libraries are required:
 
-#.# pandas
-#.# numpy
-#.# matplotlib
-#.# seaborn
-#.# scikit-learn
-#.# imbalanced-learn
+## pandas  
+
+## numpy
+
+## matplotlib
+
+## seaborn
+
+## scikit-learn
+
+## imbalanced-learn
+
 ## You can install these libraries using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
