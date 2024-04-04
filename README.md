@@ -1,5 +1,5 @@
-#Rainfall Prediction Project#
-#Overview#
+Rainfall Prediction Project
+Overview
 This project focuses on predicting rainfall based on various meteorological features. The dataset used contains information such as altitude, precipitation levels for different months, geographical coordinates, and more.
 
 Project Structure
